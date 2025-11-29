@@ -5,7 +5,7 @@
   - SampleIdleRPG 
     방치형 rpg 부분 코드
 
-- web3
+- webgl
   - chatGPT api를 활용한 simple chatbot 부분 코드
     
 "# almand" 
