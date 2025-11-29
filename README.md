@@ -1,1 +1,7 @@
+포트폴리오
+- android
+  - 방치형 rpg 부분 코드
+- web3
+  - chatGPT api를 활용한 simple chatbot 부분 코드
+    
 "# almand" 
