@@ -5,8 +5,9 @@
   - SampleIdleRPG 
     방치형 rpg 부분 코드
 
--python
+- python
   xlsx to csv 컨버트 툴 샘플 코드
+  
 - webgl
   - chatGPT api를 활용한 simple chatbot 부분 코드
     
