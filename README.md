@@ -10,5 +10,9 @@
   
 - webgl
   - chatGPT api를 활용한 simple chatbot 부분 코드
+
+- unity_vibe_claude
+  - VampireSurvivors 류 게임 (Unity)
+    Claude Code를 활용한 바이브 코딩으로 제작한 뱀파이어 서바이버 류 게임 부분 코드
     
 "# almand" 
