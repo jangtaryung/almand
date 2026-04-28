@@ -25,7 +25,7 @@ public class TranslateManager : MonoBehaviour
 {
     public static TranslateManager instance;
 
-    private string apiKey = "3138fa4a-88ac-478a-b048-340cbd8fc73b:fx";
+    private string apiKey = ""; // Inject at runtime (env var / StreamingAssets)
     private string apiUrl = "https://api-free.deepl.com/v2/translate";
     private string targetLanguage = "EN"; // 번역할 언어 코드
 
